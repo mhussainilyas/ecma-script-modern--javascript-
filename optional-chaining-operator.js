@@ -17,7 +17,7 @@
 // const city = person.address ? person.address.city : "Unknown";
 // console.log(city);
 
-// accesing the nested properties without optional chaining
+// accesing the nested properties with optional chaining
 // const city = person.address?.city || "Unknown";
 // const city = person.address?.city ?? "Unknown";
 // console.log(city);
